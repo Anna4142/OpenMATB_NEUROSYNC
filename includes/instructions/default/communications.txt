@@ -1,3 +1,6 @@
-<h1>Présentation des tâches</h1>
+<h1>Task Presentation</h1>
+<p>In the communication task, the participant must respond to audio instructions regarding the frequencies of their radios. Some messages are directed at them (their call sign), but they must ignore the other messages (different call sign).</p>
 
-<p>Dans la tâche de communication, il s'agit pour le participant de répondre à des instructions sonores quant aux fréquences de ses radios. Certains messages s'adressent à lui (son indicatif), mais il doit ignorer les autres messages (autre indicatif).</p>
+
+
+

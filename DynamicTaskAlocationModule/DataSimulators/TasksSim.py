@@ -1,5 +1,5 @@
 import random
-
+####TO BE REPLACED BY MANAGER INTERFACE
 class TasksScheduleSim:
     def __init__(self, n_tasks=10):
         self.n_tasks = n_tasks
